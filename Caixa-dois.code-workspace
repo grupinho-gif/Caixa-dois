@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../HelloWorld"
+		},
+		{
+			"path": "../../Login"
+		}
+	],
+	"settings": {}
+}
